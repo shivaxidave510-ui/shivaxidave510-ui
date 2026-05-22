@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**shivaxidave510-ui/shivaxidave510-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi there, I'm Shivaxi! 
+### About Me
+- Computer Engineering student and done Diploma in Information Technology
+- Passionate about leveraging AI and technology for sustainability
+- Currently mastering Data Structures, Algorithms, and Core Languages
+### Tech Stack
+- **Languages:** Python, Java, Html,css
+- **Tools:** VS Code, Jupiter Notebook, Git, GitHub,
+### Hackathons & Projects
+- Actively building impactful, real-world tech solutions
+- Focused on clean version control and great team collaboration
