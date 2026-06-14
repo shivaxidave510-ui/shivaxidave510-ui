@@ -3,6 +3,8 @@
 - Computer Engineering student and done Diploma in Information Technology
 - Passionate about leveraging AI and technology for sustainability
 - Currently mastering Data Structures, Algorithms, and Core Languages
+- Learning and exploring Drone Technology
+- InfoSec enthusiast
 ### Tech Stack
 - **Languages:** Python, Java, Html,css
 - **Tools:** VS Code, Jupiter Notebook, Git, GitHub,
